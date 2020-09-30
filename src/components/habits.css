@@ -1,0 +1,14 @@
+* {
+  font-size: 30px;
+}
+span {
+  margin: 10px;
+}
+.number {
+  background-color: greenyellow;
+  border-radius: 30px;
+  border-radious: 10px;
+}
+.plus {
+  margin: 10px;
+}
