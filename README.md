@@ -7,9 +7,6 @@ https://akiakma.github.io/habit_tracker/
 
 기본적인 리액트의 사용법을 다시 한번 복습했습니다.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
 ### `구현`
 
 기본적인 CSS와 리액트 JSX를 사용하여 Habit Tracker를 만들어보았습니다.
